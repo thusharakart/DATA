@@ -6,7 +6,8 @@
     <strong>2023</strong><br/>
     <strong>PG-Video-LLaVA: Pixel Grounding Large Video-Language Models</strong><br/>
     Shehan Munasinghe*, <strong>Rusiru Thushara*</strong>, Muhammad Maaz, Hanoona Rasheed, Salman Khan, Mubarak Shah, Fahad S. Khan<br/>
-    Extends image-based LLMs to videos understanding, incorporating audio transcripts for enhanced context understanding, introducing a baseline framework and benchmark for conversation-driven spatial grounding.<br/> 
+    <br/>
+    Extends image-based LLMs to videos understanding, incorporating audio transcripts for enhanced context understanding, introducing a baseline framework and benchmark for conversation-driven spatial grounding.<br/>
     <br/>
     Arxiv preprint: https://arxiv.org/pdf/2311.13435.pdf<br/>
     Project page: https://mbzuai-oryx.github.io/Video-LLaVA/<br/>
